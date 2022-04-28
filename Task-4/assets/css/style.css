@@ -1,0 +1,98 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+#card{
+width: 350px;
+margin: 0 auto;
+box-shadow: 4px 4px 8px blue;
+border-radius: 10px;
+}
+#card .card-items{
+    border: 3px solid green;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+#card .card-items .img{
+    transition: .5s;
+}
+#card .card-items .img:hover{
+    transition: .5s;
+    transform: rotate(0.5turn);
+}
+#card .card-items .img img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+#card .card-items .user-name{
+}
+
+#card .card-items .user-name h1{
+    font-size: 40px;
+}
+
+#card .card-items .ceo{
+    
+}
+
+#card .card-items .ceo span{
+    color: darkgray;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+#card .card-items .university{
+    
+}
+
+#card .card-items .university span{
+    color: rgb(78, 55, 55);
+    font-size: 25px;
+    margin-top: 40px;
+}
+#card .card-items .sosial-media{
+
+}
+
+#card .card-items .sosial-media ul{
+    margin-right: 60px;
+    margin-top: 15px;
+}
+
+#card .card-items .sosial-media ul li {
+    list-style-type: none;
+    display: inline-block;
+     margin-left: 20px;
+
+    /* text-align: center; */
+}
+
+#card .card-items .sosial-media ul li i {
+    font-size: 24px;
+}
+#card .card-items .button-contanct{
+    
+}
+
+#card .card-items .button-contanct .btn-contanct{
+    width: 128px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 13px;
+    cursor: pointer;
+    transition: .5s;
+}
+#card .card-items .button-contanct .btn-contanct:hover{
+    background-color: rgb(124, 85, 85);
+    color: aqua;
+    width: 256px;
+    height: 80px;
+    /* transition: .5s;transform: rotate(0.5turn); */
+}

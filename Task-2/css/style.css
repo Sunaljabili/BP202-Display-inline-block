@@ -1,0 +1,94 @@
+.header{
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+.logo{
+    background-color: rgb(163, 163, 163);
+    width: 20%;
+    height: 80%;
+    display: inline-block;
+}
+.futureBanner{
+    background-color: rgb(163, 163, 163);
+    width: 40%;
+    height: 80%;
+    display: inline-block;
+    position:absolute;
+    right: 10px;
+}
+.navbar{
+    background-color: rgb(163, 163, 163);
+    width: 99.5%;
+    height: 60px;
+}
+.de1{
+    width: 50%;
+    height: 900px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.dealOfWeek{
+    width: 100%;
+    height: 27%;
+    background-color: rgb(163, 163, 163);
+}
+.partners{
+    margin-top: 15px;
+    width: 100%;
+    height: 27%;
+    background-color: rgb(163, 163, 163);
+}
+.deals{
+    margin-top: 15px;
+    width: 100%;
+    height: 35%;
+    background-color: rgb(163, 163, 163);
+}
+.de2{
+    width: 17%;
+    height: 900px;
+    margin-left: 20px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.membership{
+    width: 100%;
+    height: 35%;
+    background-color: rgb(163, 163, 163);
+}
+.pet{
+    width: 100%;
+    height: 55%;
+    background-color: rgb(163, 163, 163);
+    margin-top: 20px;
+}
+.de3{
+    width: 30%;
+    height: 900px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.desc{
+    width: 100%;
+    height: 25%;
+    background-color: rgb(163, 163, 163);
+}
+.blogPosts{
+    margin-top: 20px;
+    width: 100%;
+    height: 40%;
+    background-color: rgb(163, 163, 163);
+}
+.forumPosts{
+    margin-top: 20px;
+    width: 100%;
+    height: 22.8%;
+    background-color: rgb(163, 163, 163);
+}
+.footer{
+    margin-top: -50px;
+    height: 80px;
+    background-color: rgb(163, 163, 163);
+}

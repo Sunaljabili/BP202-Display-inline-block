@@ -1,0 +1,41 @@
+*{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+}
+
+
+ .logo{
+    background-color: gray;
+    height: 200px;
+    width: 40%;
+    display: inline-block;
+    
+    
+}
+ .nav{
+    background-color: rgb(207, 185, 185);
+    height: 200px;
+    width: 59%;
+    display: inline-block;
+}
+.column-1{
+    margin-top: 10px;
+    width:calc(40% - 5px );
+    background-color: gray;
+    height: 800px;
+    display: inline-block;
+}
+
+.column-2{
+    width: calc(40%  -   5px);
+    background-color: gray;
+    height: 800px;
+    display: inline-block;
+}
+.aside{
+    width: calc(20% - 5px);
+    height: 800px;
+    background-color: gray;
+    display: inline-block;
+}

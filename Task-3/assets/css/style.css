@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#icons{
+    background-color: #f4f5f8;
+    padding: 30px;
+}
+#icons .street{
+    text-align: center;
+}
+
+#info-code{
+
+}
+#info-code .sosial-media{
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    background-color: gray;
+}
+#info-code .street{
+}
+#info-code .img-log{
+    margin: 0 auto;
+}
+
+#info-code .icons-sosial{
+}
+#info-code .icons-sosial ul li{
+    display: inline-block;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+    transition: 2s;
+}
+ul li a:hover{
+    color: white;
+    transition: 1s;
+}
+.fa-facebook-f{
+    color:blue;
+}
+.fa-instagram{
+    transition: 2s;
+}
+.fa-instagram:hover{
+    font-size: 30px;
+    transform: rotate(180deg);
+    margin-top: 30px;
+    transition: 2s;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+            
+}
+.fa-brands{
+    color: aqua;
+}
